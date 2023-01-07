@@ -11,7 +11,7 @@ import ReactDOM from 'react-dom/client';
 /**
  * Import the application entry point.
  */
-import App from './App';
+import App from './component/App';
 
 /**
  * Define the root element for react-dom.
