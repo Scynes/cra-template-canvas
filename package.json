@@ -1,0 +1,25 @@
+{
+  "name": "cra-template-canvas",
+  "version": "1.0.1",
+  "description": "A bare minimum canvas template for a react application.",
+  "keywords": [
+    "react",
+    "bare",
+    "create-react-app",
+    "template",
+    "empty",
+    "skeleton"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Scynes/cra-template-canvas"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
