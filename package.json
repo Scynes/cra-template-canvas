@@ -1,6 +1,6 @@
 {
   "name": "cra-template-canvas",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A bare minimum canvas template for a react application.",
   "keywords": [
     "react",

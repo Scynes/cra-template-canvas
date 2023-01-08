@@ -1,7 +1,7 @@
 /**
  * The React application root component. The top of the component hierarchy.
  */
-const App = () => {
+const Application = () => {
 
     return (
         //Remove the div code below.
@@ -11,4 +11,4 @@ const App = () => {
     );
 }
 
-export default App;
+export default Application;

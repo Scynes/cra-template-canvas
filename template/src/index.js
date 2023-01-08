@@ -11,7 +11,9 @@ import ReactDOM from 'react-dom/client';
 /**
  * Import the application entry point.
  */
-import App from './component/App';
+import Application from './Application';
+
+import './assets/index.css'
 
 /**
  * Define the root element for react-dom.
@@ -25,7 +27,7 @@ const build = () => {
 
     ROOT.render(
         <React.StrictMode>
-            <App />
+            <Application />
         </React.StrictMode>
     );
 }
